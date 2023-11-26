@@ -1,5 +1,0 @@
-site_name: Ssentezo Docs
-nav:
-    - Home: index.md
-    - About: about.md
-theme: readthedocs
